@@ -1,7 +1,9 @@
 require 'sinatra/base'
 
 class PokeBattle < Sinatra::Base
+
   get '/' do
+    @name = ["tom", "jerry"].sample
     erb(:index)
   end
 
