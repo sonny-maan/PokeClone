@@ -2,7 +2,7 @@ require 'sinatra/base'
 
 class PokeBattle < Sinatra::Base
   get '/' do
-    'Hello PokeBattle!'
+    'Testing infrastructure working!'
   end
 
   # start the server if ruby file executed directly
