@@ -12,7 +12,7 @@ We want to Start a fight by entering our names and seeing them.
 ```
 As a Player,
 So I can see how close I am to winning,
-I want to see my Opponents Hit Points
+I want to see my Opponents Hit Points.
 ```
 **Attacking another player**
 ```
