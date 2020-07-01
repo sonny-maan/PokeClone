@@ -14,3 +14,9 @@ As a Player,
 So I can see how close I am to winning
 I want to see my Opponents Hit Points
 ```
+**Attacking another player**
+```
+As a Player,
+So I can win a game of Battle,
+I want to be able to attack my opponent
+```
